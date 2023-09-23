@@ -6,7 +6,7 @@ from PIL import Image
 
 base = "dark"
 primaryColor = "purple"
-image = Image.open('C:\\Users\\Ftk\\Desktop\\chatbot_proj\\coursesimg.png')
+image = Image.open('coursesimg.png')
 st.image(image)
 
 
