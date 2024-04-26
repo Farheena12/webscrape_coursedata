@@ -1,5 +1,5 @@
 beautifulsoup4==4.11.1
-pandas
+pandas 1.0.5
 Pillow
 Requests==2.31.0
 streamlit==1.27.0
