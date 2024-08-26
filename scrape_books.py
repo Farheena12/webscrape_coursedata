@@ -6,7 +6,7 @@ from PIL import Image
 
 base = "dark"
 primaryColor = "purple"
-image = Image.open('/content/coursesimg.png')
+image = Image.open('coursesimg.png')
 st.image(image)
 
 
