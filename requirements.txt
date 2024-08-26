@@ -1,5 +1,5 @@
 BeautifulSoup== 4.12.3
-pandas == 2.1.4
-Image == 9.4.0
+pandas == 2.2.2
+pillow == 10.4.0
 Requests == 2.32.3
 streamlit == 1.37.1
